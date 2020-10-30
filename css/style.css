@@ -76,13 +76,13 @@ h2 {
 a {
   text-decoration: none;
   color: #f73b11;
-  /*transition-duration: 0.4s;*/
+  transition-duration: 0.4s;
   cursor: pointer;
 }
 
-/*a:hover {
+a:hover {
   color: #2be390;
-}*/
+}
 
 p {
   /*transition-duration: 0.5s*/
